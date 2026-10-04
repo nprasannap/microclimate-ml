@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1403808252.svg)](https://doi.org/10.5281/zenodo.23130907)
 # Microclimate ML Weather Synthesis Framework (v1.0)
 
 This repository contains the official code and data for the manuscript:
